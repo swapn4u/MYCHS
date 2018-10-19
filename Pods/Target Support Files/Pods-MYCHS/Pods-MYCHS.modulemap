@@ -1,0 +1,6 @@
+framework module Pods_MYCHS {
+  umbrella header "Pods-MYCHS-umbrella.h"
+
+  export *
+  module * { export * }
+}
